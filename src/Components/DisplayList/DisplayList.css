@@ -1,0 +1,33 @@
+.item{
+    max-width: 500px;
+    margin: auto;
+}
+
+
+.newItem {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 15px;
+    border: solid 1px #888;
+    background-color: rgb(238, 238, 238);
+
+}
+
+.box__item {
+    width: 80%;
+    padding-left: 30px;
+    box-sizing: border-box;
+}
+
+.trashIcon, .checkCircle {
+    width: 10%;
+
+}
+
+.checkCircleCompleted{
+  width: 10%;
+  color: rgb(48, 194, 48);
+
+}
+

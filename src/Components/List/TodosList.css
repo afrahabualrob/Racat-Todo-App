@@ -1,0 +1,10 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center input {
+  margin-bottom: 20px;
+  padding: 10px;
+}

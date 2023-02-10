@@ -1,0 +1,16 @@
+.todoItem{
+    background-color: #ccc;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border:solid 1px  #888;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    padding: 0px 25px;
+    align-items: center;
+    font-size: 14px;
+}
+.task ,.assignee{
+    width: 80%;
+}
